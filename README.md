@@ -1,6 +1,7 @@
 # Sample project showing integration with Cloudinary
 
 Project allows to upload files to external service.
+[Demo is available here](https://sdafoobarproject.herokuapp.com/)
 
 ## Setup
 All you need to make it working on your machine is providing 3 envs:
